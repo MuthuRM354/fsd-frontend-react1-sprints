@@ -1,0 +1,17 @@
+.idea/
+*.iml
+out/
+target/
+*.class
+node_modules/
+dist/
+build/
+.next/
+.env
+.env.local
+*.jar
+*.war
+*.zip
+.gradle/
+.DS_Store
+Thumbs.db
